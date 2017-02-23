@@ -11,7 +11,7 @@ namespace ConsoleApplication1
         {
             //PostRequest("https://posttestserver.com/post.php");
 
-            PostRequest("https://posttestserver.com/post.php");
+            PostRequest("	https://sparkplatform.com/openid");
             Console.ReadLine();
         }
 
